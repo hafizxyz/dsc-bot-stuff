@@ -1,1 +1,1 @@
-# dsc-bot-stuff
+my discord bot structure open source
